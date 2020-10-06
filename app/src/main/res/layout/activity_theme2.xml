@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e1eef6"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <ImageView
+        android:id="@+id/courseimage"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:src="@drawable/course2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#e1eef6"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/imageb1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#004e66"
+                android:gravity="center"
+                android:text="전주천"
+                android:textColor="#e1eef6"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/imageb2"
+                android:layout_width="0dp"
+
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#004e66"
+                android:gravity="center"
+                android:text="동물원"
+                android:textColor="#ff5f2e"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/imageb3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#004e66"
+                android:gravity="center"
+                android:text="수목원"
+                android:textColor="#e1eef6"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/imageb4"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#004e66"
+                android:gravity="center"
+                android:text="역사체험"
+                android:textColor="#e1eef6"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/imageb5"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#004e66"
+                android:gravity="center"
+                android:text="한옥마을"
+                android:textColor="#e1eef6"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/imageb6"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:background="#004e66"
+                android:gravity="center"
+                android:text="전주한바퀴"
+                android:textColor="#e1eef6"
+                android:textSize="24sp" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

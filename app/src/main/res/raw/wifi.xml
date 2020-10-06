@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <header>
+        <header>name</header>
+        <header>a</header>
+        <header>b</header>
+        <header>c</header>
+        <header>d</header>
+        <header>e</header>
+        <header>f</header>
+        <header>g</header>
+        <header>address</header>
+        <header>h</header>
+        <header>i</header>
+        <header>phonenumber</header>
+        <header>latitude</header>
+        <header>longitude</header>
+        <header>j</header>
+    </header>
+    <Row>
+        <name>전주향교</name>
+        <a>"서제, 동제"</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 향교길 139</address>
+        <h>전라북도 전주시 완산구 교동 26-3</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81282980</latitude>
+        <longitude>127.15713080</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>한옥마을 관광안내소</name>
+        <a>건물 밖</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>편의시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 완산구 기린대로 99</address>
+        <h>전라북도 전주시 완산구 남노송동 100-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81822300</latitude>
+        <longitude>127.15371500</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주한옥생활체험관</name>
+        <a>중앙 건물</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 어진길 29</address>
+        <h>전라북도 전주시 완산구 풍남동3가 33-4</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81751560</latitude>
+        <longitude>127.15302230</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주농수산물도매시장</name>
+        <a>청과동 경매장 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>서민·복지시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 덕진구 동부대로 1183</address>
+        <h>전라북도 전주시 덕진구 송천동2가 506-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.86732420</latitude>
+        <longitude>127.11781590</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>서부시장</name>
+        <a>"포도원교회 옥상, 참다인 옥상"</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>서민·복지시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 완산구 효동2길 23</address>
+        <h>전라북도 전주시 완산구 효자동1가 205-12</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.80443080</latitude>
+        <longitude>127.12683680</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>중앙상가시장</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>서민·복지시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 완산구 태평3길 70</address>
+        <h>전라북도 전주시 완산구 태평동 36-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.82523590</latitude>
+        <longitude>127.14246730</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>1층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82945100</latitude>
+        <longitude>127.13420500</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>로비</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82933460</latitude>
+        <longitude>127.13439400</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>1층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82961400</latitude>
+        <longitude>127.13420500</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82900500</latitude>
+        <longitude>127.13475300</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>별관</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju12</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>별관</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju11</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>4층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju9</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>4층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju8</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>3층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju7</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>3층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju6</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>2층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju5</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진구청</name>
+        <a>2층</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>LGU+</e>
+        <f>asiart jeonju4</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>호성동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 동부대로 869</address>
+        <h>전라북도 전주시 덕진구 호성동 1가 863-44</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.86365020</latitude>
+        <longitude>127.14962400</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>팔복동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 신복5길 6</address>
+        <h>전라북도 전주시 덕진구 팔복동 1가 138-6</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.85362760</latitude>
+        <longitude>127.10627270</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>진북동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 벚꽃1길 8</address>
+        <h>전라북도 전주시 덕진구 진북동 1042-4</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82777450</latitude>
+        <longitude>127.13144780</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>조촌동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 쪽구름로 150</address>
+        <h>전라북도 전주시 덕진구 반월동 394</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.87451920</latitude>
+        <longitude>127.06919180</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>인후3동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 구총목로 11</address>
+        <h>전라북도 전주시 덕진구 인후동 1가 886-6</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.82790210</latitude>
+        <longitude>127.16133870</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>인후2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 견훤왕궁로 244</address>
+        <h>전라북도 전주시 덕진구 인후동 2가 26-8</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.83984620</latitude>
+        <longitude>127.14623970</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>인후1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 견훤로 290</address>
+        <h>전라북도 전주시 덕진구 인후동 1가 766-9</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.83746010</latitude>
+        <longitude>127.15665900</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>우아2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 진버들7길 25</address>
+        <h>전라북도 전주시 덕진구 우아동 2가 856-3</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.83772190</latitude>
+        <longitude>127.16705980</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>우아1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 우아2길 25</address>
+        <h>전라북도 전주시 덕진구 우아동 3가 746-67</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.84981680</latitude>
+        <longitude>127.15958470</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>송천2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 두간9길 6</address>
+        <h>전라북도 전주시 덕진구 송천동 1가 829-1</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.86489460</latitude>
+        <longitude>127.11562220</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>송천1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 송천중앙로 116</address>
+        <h>전라북도 전주시 덕진구 송천동 1가 395-28</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.85709470</latitude>
+        <longitude>127.12102310</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>동산동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 여암2길 9</address>
+        <h>전라북도 전주시 덕진구 여의동 606-4</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.87102920</latitude>
+        <longitude>127.07451900</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 기린대로 533-7</address>
+        <h>전라북도 전주시 덕진구 덕진동 1가 1357-5</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.84530690</latitude>
+        <longitude>127.12069270</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>금암2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 거북바우로 50</address>
+        <h>전라북도 전주시 덕진구 금암동 1572-1</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.83854290</latitude>
+        <longitude>127.14308800</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>금암1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>asiart jeonju</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 덕진구 기린대로 392</address>
+        <h>전라북도 전주시 덕진구 금암동 470-7</h>
+        <i>전라북도 전주시 덕진구청</i>
+        <phonenumber>063-270-6200</phonenumber>
+        <latitude>35.83740630</latitude>
+        <longitude>127.13313820</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>효자4동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>hyoja4</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 우전로 259</address>
+        <h>전라북도 전주시 완산구 효자동 2가 1233-1</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.81767180</latitude>
+        <longitude>127.10153450</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>효자3동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>효자3동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 강변로 180</address>
+        <h>전라북도 전주시 완산구 효자동 1가 296-37</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.80655930</latitude>
+        <longitude>127.11034090</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>효자2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>효자2동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 오두정1길 1</address>
+        <h>전라북도 전주시 완산구 효자동 1가 408-9</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.80683780</latitude>
+        <longitude>127.11951370</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>효자1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>hyoja1</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 안행5길 59-3</address>
+        <h>전라북도 전주시 완산구 효자동 1가 110-16</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.80585690</latitude>
+        <longitude>127.13000140</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>삼천3동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>sam3</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 삼천천변2길 37</address>
+        <h>전라북도 전주시 완산구 삼천동 1가 287-21</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.79686260</latitude>
+        <longitude>127.11430790</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>삼천2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>sam2</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 거마중앙로 49</address>
+        <h>전라북도 전주시 완산구 삼천동 1가 633</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.79631680</latitude>
+        <longitude>127.12235790</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>삼천1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>sam1</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 성지산로 33</address>
+        <h>전라북도 전주시 완산구 삼천동 1가 573-2</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.80081880</latitude>
+        <longitude>127.12161580</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>서신동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>seoshin</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 서신천변14길 10</address>
+        <h>전라북도 전주시 완산구 서신동 804-2</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.83098720</latitude>
+        <longitude>127.11532560</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>평화2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>평화2동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 평화18길 14-16</address>
+        <h>전라북도 전주시 완산구 평화동 1가 720-4</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.79551810</latitude>
+        <longitude>127.13528500</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>평화1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>평화1동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 장승배기로 256</address>
+        <h>전라북도 전주시 완산구 평화동 1가 445-8</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.79806620</latitude>
+        <longitude>127.14032110</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>중화산2동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>중화산2동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 화산천변로 30</address>
+        <h>전라북도 전주시 완산구 중화산동 2가 752-1</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.82165400</latitude>
+        <longitude>127.11639420</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>중화산1동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>iptime</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 한두평3길 16</address>
+        <h>전라북도 전주시 완산구 중화산동 2가 662</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.81458470</latitude>
+        <longitude>127.12484370</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>서서학동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>서서학동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 공수내로24</address>
+        <h>전라북도 전주시 완산구 서서학동 23-8</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.80572760</latitude>
+        <longitude>127.14871170</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>동서학동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>동서학동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 서학로 26</address>
+        <h>전라북도 전주시 완산구 동서학동 150</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.80948220</latitude>
+        <longitude>127.15225890</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>완산동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>완산동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 강당2길 7</address>
+        <h>전라북도 전주시 완산구 서완산동 2가 71-31</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.80921870</latitude>
+        <longitude>127.13486870</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>노송동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>노송동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 인봉1길 54</address>
+        <h>전라북도 전주시 완산구  중노송동 225</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.82438890</latitude>
+        <longitude>127.15838760</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>풍남동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>풍남동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 어진길 122-12</address>
+        <h>전라북도 전주시 완산구 경원동 1가 126-41</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.81703750</latitude>
+        <longitude>127.14811180</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>중앙동주민센터</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>중앙동</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 태평3길 43-17</address>
+        <h>전라북도 전주시 완산구 태평동 32</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.82350430</latitude>
+        <longitude>127.14064010</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>완산구청</name>
+        <a>민원실</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>wansan</f>
+        <g>2017-06</g>
+        <address>전라북도 전주시 완산구 서원로 232</address>
+        <h>전라북도 전주시 완산구 효자동 1가 595</h>
+        <i>전라북도 전주시 완산구청</i>
+        <phonenumber>063-220-5500</phonenumber>
+        <latitude>35.81215300</latitude>
+        <longitude>127.11980250</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>오목대 관광안내소</name>
+        <a>건물 밖</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>편의시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 완산구 태조로6</address>
+        <h>전라북도 전주시 완산구 풍남동3가 15-11</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81519570</latitude>
+        <longitude>127.15393790</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주솔내청소년수련관</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>서민·복지시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 덕진구 동부대로 1079</address>
+        <h>전라북도 전주시 덕진구 송천동2가 170</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.86920260</latitude>
+        <longitude>127.12896510</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주정보문화사업진흥원</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 완산구 아중로 33</address>
+        <h>전라북도 전주시 완산구 중노송동 470-4</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.82381910</latitude>
+        <longitude>127.15373160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주시외버스공영터미널</name>
+        <a>대합실 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>교통시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 덕진구 가리내로 30</address>
+        <h>전라북도 전주시 덕진구 금암동 796-5</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.83471250</latitude>
+        <longitude>127.13246290</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>쪽구름도서관</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 덕진구 여암2길 9</address>
+        <h>전라북도 전주시 덕진구 반월동 248-32</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.87134600</latitude>
+        <longitude>127.07558890</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>건지도서관</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 덕진구 호성로 25</address>
+        <h>전라북도 전주시 덕진구 호성동1가 728</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.85420160</latitude>
+        <longitude>127.15152140</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>아중도서관</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 덕진구 무삼지2길 7</address>
+        <h>전라북도 전주시 덕진구 인후동1가 907-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.82633500</latitude>
+        <longitude>127.16262060</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>삼천도서관</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-12</g>
+        <address>전라북도 전주시 완산구 용리로 107</address>
+        <h>전라북도 전주시 완산구 삼천동1가 182-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.79905410</latitude>
+        <longitude>127.12173700</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>오거리광장</name>
+        <a>오거리 광장</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>편의시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-05</g>
+        <address>전라북도 전주시 완산구 팔달로 217-21</address>
+        <h>전라북도 전주시 완산구 고사동 11-8</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.82137100</latitude>
+        <longitude>127.14513920</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>경기전</name>
+        <a>사무실 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관광</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-05</g>
+        <address>전라북도 전주시 완산구 태조로 44</address>
+        <h>전라북도 전주시 완산구 풍남동3가 91-5</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81431040</latitude>
+        <longitude>127.15012130</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주시청</name>
+        <a>"로비, 민원실, 쉼터, 시청광장"</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-02</g>
+        <address>전라북도 전주시 완산구 노송광장로 10</address>
+        <h>전라북도 전주시 완산구 서노송동 568-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.82443590</latitude>
+        <longitude>127.14780700</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>한옥마을</name>
+        <a>중앙초등학교 사거리</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 경기전길 120</address>
+        <h>전라북도 전주시 완산구 교동 269-3</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81412800</latitude>
+        <longitude>127.15102330</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>평화보건지소</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 평화13길 7</address>
+        <h>전라북도 전주시 완산구 평화동2가 862-6</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.79072800</latitude>
+        <longitude>127.13669310</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진보건소</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 벚꽃로 55</address>
+        <h>전라북도 전주시 덕진구 진북동 416-12</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.82935890</latitude>
+        <longitude>127.13456160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주보건소</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 전라감영로 33</address>
+        <h>전라북도 전주시 완산구 중앙동4가 30-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81562510</latitude>
+        <longitude>127.14317380</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>차량등록사업소</name>
+        <a>"민원실 내, 번호판 부착장소"</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관공서</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 완주로 6</address>
+        <h>전라북도 전주시 덕진구 호성동2가 631-12</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.86742900</latitude>
+        <longitude>127.14755950</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>모래내시장</name>
+        <a>시장 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>서민·복지시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 모래내5길 13-2</address>
+        <h>전라북도 전주시 덕진구 인후동2가 203-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.83379110</latitude>
+        <longitude>127.14419610</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주신중앙시장</name>
+        <a>시장 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>서민·복지시설</d>
+        <e>SKT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 태평5길 33</address>
+        <h>전라북도 전주시 완산구 태평동 41-5</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.82414240</latitude>
+        <longitude>127.14353160</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>남부시장</name>
+        <a>"시장 내, 청년몰 전시장 등"</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>서민·복지시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 풍남문2길 63</address>
+        <h>전라북도 전주시 완산구 전동3가 2-242</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81240760</latitude>
+        <longitude>127.14659880</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>동물원</name>
+        <a>"매표소 앞, 동물원 내 편의점 밖"</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관광</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 소리로 68</address>
+        <h>전라북도 전주시 덕진구 덕진동1가 73-48</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.85611530</latitude>
+        <longitude>127.14467370</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>어린이교통공원</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>편의시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 번영로 453</address>
+        <h>전라북도 전주시 덕진구 용정동 50-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.87505170</latitude>
+        <longitude>127.05668080</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>덕진공원</name>
+        <a>관리소 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>관광</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 덕진구 권삼득로 390</address>
+        <h>전라북도 전주시 덕진구 덕진동1가 1316-2</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.84803630</latitude>
+        <longitude>127.12221240</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>영화제작소</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 전주객사3길 22</address>
+        <h>전라북도 전주시 완산구 고사동 429-5</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81834890</latitude>
+        <longitude>127.14254920</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주전통문화연수원</name>
+        <a>동헌 건물</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 향교길 119-6</address>
+        <h>전라북도 전주시 완산구 교동 28-2</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81246790</latitude>
+        <longitude>127.15655480</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>전주한벽문화관</name>
+        <a>한벽극장 로비</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 전주천동로 20</address>
+        <h>전라북도 전주시 완산구 교동 7-1</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81198670</latitude>
+        <longitude>127.15849300</longitude>
+        <j>2017-04-24</j>
+    </Row>
+    <Row>
+        <name>강암서예관</name>
+        <a>건물 내</a>
+        <b>전라북도</b>
+        <c>전주시</c>
+        <d>지역문화시설</d>
+        <e>KT</e>
+        <f>Public WiFi Free</f>
+        <g>2017-01</g>
+        <address>전라북도 전주시 완산구 전주천동로 74</address>
+        <h>전라북도 전주시 완산구 교동 197</h>
+        <i>전라북도 전주시청</i>
+        <phonenumber>063-281-2424</phonenumber>
+        <latitude>35.81124500</latitude>
+        <longitude>127.15249130</longitude>
+        <j>2017-04-24</j>
+    </Row>
+</root>

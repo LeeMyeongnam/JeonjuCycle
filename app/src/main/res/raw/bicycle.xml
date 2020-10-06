@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<Row>
+<a>1</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>알톤자전거 평화동대리점</name>
+<phonenumber>063-228-3005</phonenumber>
+<address>전라북도 전주시 완산구 평화동2가 229</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1343722</longitude>
+<latitude>35.7900607</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>2</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>유한회사 전북엠티비</name>
+<phonenumber>063-252-7785</phonenumber>
+<address>전라북도 전주시 완산구 중화산동2가 700-2</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1223640</longitude>
+<latitude>35.8229065</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>4</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>자전거랑</name>
+<phonenumber>063-284-0871</phonenumber>
+<address>전라북도 전주시 완산구 서서학동 209-5</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1494800</longitude>
+<latitude>35.8100583</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>5</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>자전거백화점</name>
+<phonenumber>063-224-3701</phonenumber>
+<address>전라북도 전주시 완산구 삼천동1가 601-20</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1187446</longitude>
+<latitude>35.7988120</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>7</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>코렉스자전거</name>
+<phonenumber>063-228-7161</phonenumber>
+<address>전라북도 전주시 완산구 효자동1가 282-6</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1170141</longitude>
+<latitude>35.8059287</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>9</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>남부자전거</name>
+<phonenumber>063-285-7394</phonenumber>
+<address>전라북도 전주시 완산구 중화산동1가 162-36</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1339593</longitude>
+<latitude>35.8137427</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>10</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>바이크박스</name>
+<phonenumber>063-237-2911</phonenumber>
+<address>전라북도 전주시 완산구 효자동1가 408-1</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1111309</longitude>
+<latitude>35.8076371</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>11</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>바이크타운</name>
+<phonenumber>063-232-2182</phonenumber>
+<address>전라북도 전주시 완산구 평화동1가 583-15</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1363113</longitude>
+<latitude>35.7971221</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>12</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>보광자전거</name>
+<phonenumber>063-284-0871</phonenumber>
+<address>전라북도 전주시 완산구 서서학동 209-5</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1516786</longitude>
+<latitude>35.8087641</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>13</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>보광자전거</name>
+<phonenumber>063-255-6061</phonenumber>
+<address>전라북도 전주시 완산구 서신동 401-14</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1176183</longitude>
+<latitude>35.8268306</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>14</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>사이클피아</name>
+<phonenumber>063-271-8688</phonenumber>
+<address>전라북도 전주시 완산구 효자동3가 1733-1</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.0971973</longitude>
+<latitude>35.8133474</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>15</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>알톤자전거 삼천점</name>
+<phonenumber>063-225-8119</phonenumber>
+<address>전라북도 전주시 완산구 삼천동1가 696-9</address>
+<d>Y</d>
+<e>Y</e>
+<longitude>127.1180758</longitude>
+<latitude>35.7928071</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>16</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>알톤자전거 전주점(직영)</name>
+<phonenumber>063-225-8119</phonenumber>
+<address>전라북도 전주시 완산구 효자동1가 696-9</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1193970</longitude>
+<latitude>35.7932620</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>17</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>알톤자전거 중화산점</name>
+<phonenumber>063-224-3701</phonenumber>
+<address>전라북도 전주시 완산구 삼천동1가 585-1</address>
+<d>전라북도 전주시 완산구 중산로 38</d>
+<d>N</d>
+<e>N</e>
+<longitude>127.1204453</longitude>
+<latitude>35.8173825</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>18</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>덕진자전거</name>
+<phonenumber>063-275-7987</phonenumber>
+<address>전라북도 전주시 덕진구 덕진동2가 130-3</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1156636</longitude>
+<latitude>35.8481507</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>19</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>알톤자전거 덕진점</name>
+<phonenumber>063-277-5700</phonenumber>
+<address>전라북도 전주시 덕진구 덕진동1가 1279-11</address>
+<d>Y</d>
+<e>Y</e>
+<longitude>127.1235567</longitude>
+<latitude>35.8441906</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>21</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>에코바이크</name>
+<phonenumber>063-255-2911</phonenumber>
+<address>전라북도 전주시 덕진구 덕진동2가 200-10</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1207450</longitude>
+<latitude>35.8461444</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>22</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>자전거랜드</name>
+<phonenumber>063-212-3007</phonenumber>
+<address>전라북도 전주시 덕진구 동산동 565-20</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1207450</longitude>
+<latitude>35.8461444</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>23</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>전북대구내자전거점</name>
+<phonenumber>063-272-5663</phonenumber>
+<address>전라북도 전주시 덕진구 덕진동1가 664-12</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1298568</longitude>
+<latitude>35.8494717</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>24</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>착한자전거</name>
+<phonenumber>063-213-0110</phonenumber>
+<address>전라북도 전주시 덕진구 덕진동1가 1220 종합경기장159-1</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1248051</longitude>
+<latitude>35.8394423</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>25</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>코렉스웅이아버지자전거</name>
+<phonenumber>063-244-1530</phonenumber>
+<address>전라북도 전주시 덕진구 우아동3가 602-48</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1546547</longitude>
+<latitude>35.8537522</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>26</a>
+<b>알톤자전거</b>
+<c>전라북도</c>
+<name>하나기프트</name>
+<phonenumber>063-214-0815</phonenumber>
+<address>전라북도 전주시 덕진구 여의동 871-1</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.0743688</longitude>
+<latitude>35.8538926</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>27</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 동부점</name>
+<phonenumber>063-288-6765</phonenumber>
+<address>전라북도 전주시 완산구 경원동3가 1-7</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1524424</longitude>
+<latitude>35.8206744</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>28</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 삼천점</name>
+<phonenumber>063-252-9229</phonenumber>
+<address>전라북도 전주시 완산구 삼천1동 602-2</address>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1170540</longitude>
+<latitude>35.7981601</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>29</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 서곡점</name>
+<phonenumber>063-253-7003</phonenumber>
+<address>전라북도 전주시 완산구 효자동3가 1463-6</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1012940</longitude>
+<latitude>35.8332584</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>30</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 서서학점</name>
+<phonenumber>063-283-0206</phonenumber>
+<address>전라북도 전주시 완산구 서서학동 337-21</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1463262</longitude>
+<latitude>35.8009166</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>31</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 서신점</name>
+<phonenumber>063-223-2362</phonenumber>
+<address>전라북도 전주시 완산구 서신동 818-15</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1130994</longitude>
+<latitude>35.8302923</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>32</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 전주남부점</name>
+<phonenumber>063-284-0871</phonenumber>
+<address>전라북도 전주시 완산구 서서학동 209-5</address>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1494800</longitude>
+<latitude>35.8100583</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>33</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 전주대점</name>
+<phonenumber>063-223-6020</phonenumber>
+<address>전라북도 전주시 완산구 효자동3가 1730-10</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.0968274</longitude>
+<latitude>35.8119375</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>34</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 평화점</name>
+<phonenumber>063-227-9916</phonenumber>
+<address>전라북도 전주시 완산구 평화동2가 312-6 우미아파트상가1</address>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1291916</longitude>
+<latitude>35.7883930</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>35</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 효자점</name>
+<phonenumber>063-224-6359</phonenumber>
+<address>전라북도 전주시 완산구 효자동1가 302-8</address>
+<d>Y</d>
+<e>Y</e>
+<longitude>127.1228933</longitude>
+<latitude>35.8079717</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>36</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 덕진점</name>
+<phonenumber>063-272-6796</phonenumber>
+<address>전라북도 전주시 덕진구 덕진동1가 1275-20</address>
+<d>전라북도 전주시 덕진구 사평로 74</d>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1237167</longitude>
+<latitude>35.8432016</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>37</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 동산점</name>
+<phonenumber>063-211-8655</phonenumber>
+<address>전라북도 전주시 덕진구 반월동 247-5</address>
+<d>전라북도 전주시 덕진구 쪽구름로 81</d>
+<d>N</d>
+<e>Y</e>
+<longitude>127.0757050</longitude>
+<latitude>35.8725576</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>38</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 로드MTB점</name>
+<phonenumber>063-252-4321</phonenumber>
+<address>전라북도 전주시 덕진구 금암동 697-15</address>
+<d>전라북도 전주시 덕진구 기린대로 373</d>
+<d>Y</d>
+<e>Y</e>
+<longitude>127.1339914</longitude>
+<latitude>35.8360091</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>39</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 송천서부점</name>
+<phonenumber>063-277-4217</phonenumber>
+<address>전라북도 전주시 덕진구 송천동1가 833-4</address>
+<d>전라북도 전주시 덕진구 시천로 52</d>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1146928</longitude>
+<latitude>35.8639841</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>40</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 송천점</name>
+<phonenumber>063-273-3002</phonenumber>
+<address>전라북도 전주시 덕진구 송천동1가 395-16 송학@상가107호</address>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1212463</longitude>
+<latitude>35.8584295</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>41</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 아중점</name>
+<phonenumber>063-244-3004</phonenumber>
+<address>전라북도 전주시 덕진구 인후동1가 806-6</address>
+<d>전라북도 전주시 덕진구 건산로 243</d>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1636175</longitude>
+<latitude>35.8348233</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>42</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 인후동점</name>
+<phonenumber>063-241-3082</phonenumber>
+<address>전라북도 전주시 덕진구 인후동1가 951-2 아중제일아파트상가 207-104</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1680375</longitude>
+<latitude>35.8258917</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>43</a>
+<b>삼천리</b>
+<c>전라북도</c>
+<name>삼천리 전주지삼점</name>
+<phonenumber>063-251-3015</phonenumber>
+<address>전라북도 전주시 덕진구 송천동2가 189-2 현대@상가 205</address>
+<d>Y</d>
+<e>Y</e>
+<longitude>127.1247483</longitude>
+<latitude>35.8644266</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>45</a>
+<b>스마트</b>
+<c>전라북도</c>
+<name>금강자전거</name>
+<phonenumber>063-272-5663</phonenumber>
+<address>전라북도 전주시 덕진구 덕진동1가 1327-37 전북대학 내</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.1276573</longitude>
+<latitude>35.8511273</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>46</a>
+<b>스마트</b>
+<c>전라북도</c>
+<name>자전거랜드</name>
+<phonenumber>063-212-3007</phonenumber>
+<address>전라북도 전주시 덕진구 동산동 565-20</address>
+<d>N</d>
+<e>N</e>
+<longitude>127.0791477</longitude>
+<latitude>35.8671774</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>47</a>
+<b>스마트</b>
+<c>전라북도</c>
+<name>마이바이크</name>
+<phonenumber>063-211-7880</phonenumber>
+<address>전라북도 전주시 덕진구 장동 1086</address>
+<d>Y</d>
+<e>N</e>
+<longitude>127.0627257</longitude>
+<latitude>35.840899</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>48</a>
+<b>스마트</b>
+<c>전라북도</c>
+<name>스마트자전거</name>
+<phonenumber>063-241-4279</phonenumber>
+<address>전라북도 전주시 덕진구 우아동2가 813-2</address>
+<d>전라북도 전주시 덕진구 진버들6길 31</d>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1657654</longitude>
+<latitude>35.8381377</latitude>
+<f>2015-10-30</f>
+</Row>
+<Row>
+<a>49</a>
+<b>스마트</b>
+<c>전라북도</c>
+<name>중앙자전거</name>
+<phonenumber>063-272-8395</phonenumber>
+<address>전라북도 전주시 덕진구 진북동 391-84</address>
+<d>N</d>
+<e>Y</e>
+<longitude>127.1385034</longitude>
+<latitude>35.8310503</latitude>
+<f>2015-10-30</f>
+</Row>
+</root>
